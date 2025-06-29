@@ -1,14 +1,14 @@
-Risk-Prediction-Using-ML
+#Risk-Prediction-Using-ML
 
 Features:
 
-Predict lung cancer risk based on AQI and other environmental factors.
+  Predict lung cancer risk based on AQI and other environmental factors.
 
-Comprehensive data preprocessing and feature selection.
+  Comprehensive data preprocessing and feature selection.
 
-Comparative analysis of multiple machine learning models.
+  Comparative analysis of multiple machine learning models.
 
-Visualizations to explore data insights and model performance.
+  Visualizations to explore data insights and model performance.
 
 Programming Language: Python
 
@@ -16,18 +16,18 @@ Libraries: Pandas, NumPy, Scikit-learn, Seaborn
 
 Workflow:
 
-Data Collection-- Gathering AQI and related data.
+  Data Collection-- Gathering AQI and related data.
 
-Preprocessing-- Cleaning, transforming, and feature engineering.
+  Preprocessing-- Cleaning, transforming, and feature engineering.
 
-Model Development-- Training and testing machine learning models.
+  Model Development-- Training and testing machine learning models.
 
-Evaluation-- Assessing model performance using metrics like accuracy, precision, and recall.
+  Evaluation-- Assessing model performance using metrics like accuracy, precision, and recall.
 
-Visualization-- Presenting findings through graphs and charts.
+  Visualization-- Presenting findings through graphs and charts.
 
 Key Insights:
 
-Correlation between AQI levels and lung cancer risk.
+  Correlation between AQI levels and lung cancer risk.
 
-Importance of specific environmental factors in risk prediction.
+  Importance of specific environmental factors in risk prediction.
